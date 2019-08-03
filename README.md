@@ -11,4 +11,5 @@
 https://github.com/wn733/webstudy/issues
 
 ## 关于作者
-
+- 个人简介
+- 打赏作者
