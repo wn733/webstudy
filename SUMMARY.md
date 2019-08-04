@@ -2,8 +2,11 @@
 
 * [前端学习](README.md)
 * [ES6入门](doc/ES6/README.md)
-    * [es6-1](doc/ES6/es6-1.md)
-    * [es6-2](doc/ES6/es6-2.md)
+    * [es6-常量](doc/ES6/es6-常量.md)
+    * [es6-作用域](doc/ES6/es6-作用域.md)
+    * [es6-箭头函数](doc/ES6/es6-箭头函数.md)
+    * [es6-默认参数](doc/ES6/es6-默认参数.md)
+    * [es6-对象代理](doc/ES6/es6-对象代理.md)
 * [Promise入门](doc/Promise/README.md)
     * [promise-1](doc/Promise/promise-1.md)
     * [promise-2](doc/Promise/promise-2.md)
