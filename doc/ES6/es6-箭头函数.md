@@ -24,7 +24,7 @@
     console.log(evens,odds);//[1,2,3,4,5]  [2,3,4,5,6]
 ```
 
-###es5this的制向
+###es5this的指向
 
 ```javascript
     var factory = function (){
@@ -41,7 +41,7 @@
 ```
 *this的指向是该函数被调用的对象*
 
-###es6this的制向
+###es6this的指向
 
 ```javascript
     var factory = function (){
